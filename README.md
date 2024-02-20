@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsPranjul
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Nodejs, 
 - 💞️ I’m looking to collaborate on industry level. 
 - 📫 How to reach me ... 
 - 😄 Pronouns: Pranjul 
