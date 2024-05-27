@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @itsPranjul
+- 👋 Hi, I’m Pranjul Pal
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React, Nodejs, 
+- 🌱 I’m currently learning React, Nodejs, TailwindCss, and MaterialUi
 - 💞️ I’m looking to collaborate on industry level. 
 - 📫 How to reach me ... 
 - 😄 Pronouns: Pranjul 
