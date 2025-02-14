@@ -12,8 +12,8 @@ I am a passionate **MERN stack developer** with experience in **React.js, Node.j
 I enjoy reading books, listening to podcasts, and working on innovative projects. Let's connect and build something great together!  
 
 📫 **Connect with me:**  
-- GitHub: [github.com/your-username](https://github.com/itsPranjul)  
-- LinkedIn: [linkedin.com/in/your-name](https://www.linkedin.com/in/pranjul-pal-77302316b/)  
+- GitHub: [github.com/itsPranjul](https://github.com/itsPranjul)  
+- LinkedIn: [linkedin.com/in/pranjul-pal](https://www.linkedin.com/in/pranjul-pal-77302316b/)  
 
 
 <!---
