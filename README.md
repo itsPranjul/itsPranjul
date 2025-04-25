@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-   <div style="margin-left: 20px;">
+   <div margin="left">
   👨‍💻 <strong>About Me</strong>:<br><br>
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br><br>
   - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>
