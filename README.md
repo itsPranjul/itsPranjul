@@ -43,8 +43,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
-</div>
-<br>
+</div><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsPranjul&layout=compact&theme=vision-friendly-dark)](https://github.com/itsPranjul/github-readme-stats)
 </div>
                            
