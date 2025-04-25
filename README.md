@@ -74,5 +74,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 📫 Let's Connect :
-- 📧 Email: pranjulpal.dev@gmail.com  
-- 🌐 Portfolio: [https://bodyfitbypranjul.netlify.app](https://bodyfitbypranjul.netlify.app)
+- 📧 Email: pranjulit4708@gmail.com  
+- 🌐 Portfolio: [https://portfolio-pranjul-dt3h.vercel.app/](https://portfolio-pranjul-dt3h.vercel.app/)
