@@ -45,6 +45,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-usernam&layout=compact&theme=vision-friendly-dark)](https://github.com/itsPranjul/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/itsPranjul&layout=compact&theme=vision-friendly-dark)](https://github.com/itsPranjul/github-readme-stats)
 </div>
                            
